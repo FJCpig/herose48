@@ -1,4 +1,4 @@
-# heroes48
+# heros48
 
 > A Vue.js project
 
